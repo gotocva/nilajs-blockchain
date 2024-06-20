@@ -134,12 +134,12 @@ curl http://localhost:3000/blockchain
 
 ### Roadmap
 
-- [&check;] Core Blockchain
-- [&check;] Proof of work - Consensus
-- [&check;] Persistant using Level DB
-- [&check;] REST API
-- [&check;] Blockchain Explorer
-- [x] Digital signature 
+- [x] Core Blockchain
+- [x] Proof of work - Consensus
+- [x] Persistant using Level DB
+- [x] REST API
+- [x] Blockchain Explorer
+- [ ] Digital signature 
 - [ ] Distributed networks 
 - [ ] Broadcasting & Queuing the transactions
 - [ ] Consensus for Peer to Peer
