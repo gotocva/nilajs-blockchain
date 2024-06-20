@@ -1,0 +1,6 @@
+/**
+ * Coming soon
+ */
+module.exports = {
+    
+}
