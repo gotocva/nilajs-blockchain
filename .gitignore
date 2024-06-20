@@ -6,6 +6,7 @@ logs/
 *.log
 
 db/database/blockchain-db/
+db/database/blockchain-db-index/
 db/database/queue-db/
 
 # Runtime data
