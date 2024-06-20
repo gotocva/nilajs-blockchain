@@ -139,7 +139,7 @@ curl http://localhost:3000/blockchain
 - [&check;] Persistant using Level DB
 - [&check;] REST API
 - [&check;] Blockchain Explorer
-- [ ] Digital signature 
+- [x] Digital signature 
 - [ ] Distributed networks 
 - [ ] Broadcasting & Queuing the transactions
 - [ ] Consensus for Peer to Peer
